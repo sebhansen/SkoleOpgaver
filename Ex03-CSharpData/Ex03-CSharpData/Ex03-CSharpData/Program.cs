@@ -114,7 +114,7 @@ namespace Ex03_CSharpData
                     throw;
                 }
             }
-            else if (function == 5)
+            else if (function == 5) // IndexOf
             {
                 try
                 {
@@ -140,7 +140,7 @@ namespace Ex03_CSharpData
                     throw;
                 }
             }
-            else
+            else // Ved fejlinput, smid brugeren til toppen.
             {
                 Console.WriteLine("Noget gik galt. Tryk på en vilkårlig tast for at gå tilbage til menuen.");
                 Console.ReadLine();
