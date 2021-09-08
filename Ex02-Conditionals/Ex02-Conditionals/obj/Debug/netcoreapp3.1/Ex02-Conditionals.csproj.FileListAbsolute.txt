@@ -1,0 +1,14 @@
+C:\Users\basse\source\repos\Skole\Ex02-Conditionals\Ex02-Conditionals\bin\Debug\netcoreapp3.1\Ex02-Conditionals.exe
+C:\Users\basse\source\repos\Skole\Ex02-Conditionals\Ex02-Conditionals\bin\Debug\netcoreapp3.1\Ex02-Conditionals.deps.json
+C:\Users\basse\source\repos\Skole\Ex02-Conditionals\Ex02-Conditionals\bin\Debug\netcoreapp3.1\Ex02-Conditionals.runtimeconfig.json
+C:\Users\basse\source\repos\Skole\Ex02-Conditionals\Ex02-Conditionals\bin\Debug\netcoreapp3.1\Ex02-Conditionals.runtimeconfig.dev.json
+C:\Users\basse\source\repos\Skole\Ex02-Conditionals\Ex02-Conditionals\bin\Debug\netcoreapp3.1\Ex02-Conditionals.dll
+C:\Users\basse\source\repos\Skole\Ex02-Conditionals\Ex02-Conditionals\bin\Debug\netcoreapp3.1\Ex02-Conditionals.pdb
+C:\Users\basse\source\repos\Skole\Ex02-Conditionals\Ex02-Conditionals\obj\Debug\netcoreapp3.1\Ex02-Conditionals.csproj.AssemblyReference.cache
+C:\Users\basse\source\repos\Skole\Ex02-Conditionals\Ex02-Conditionals\obj\Debug\netcoreapp3.1\Ex02-Conditionals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basse\source\repos\Skole\Ex02-Conditionals\Ex02-Conditionals\obj\Debug\netcoreapp3.1\Ex02-Conditionals.AssemblyInfoInputs.cache
+C:\Users\basse\source\repos\Skole\Ex02-Conditionals\Ex02-Conditionals\obj\Debug\netcoreapp3.1\Ex02-Conditionals.AssemblyInfo.cs
+C:\Users\basse\source\repos\Skole\Ex02-Conditionals\Ex02-Conditionals\obj\Debug\netcoreapp3.1\Ex02-Conditionals.csproj.CoreCompileInputs.cache
+C:\Users\basse\source\repos\Skole\Ex02-Conditionals\Ex02-Conditionals\obj\Debug\netcoreapp3.1\Ex02-Conditionals.dll
+C:\Users\basse\source\repos\Skole\Ex02-Conditionals\Ex02-Conditionals\obj\Debug\netcoreapp3.1\Ex02-Conditionals.pdb
+C:\Users\basse\source\repos\Skole\Ex02-Conditionals\Ex02-Conditionals\obj\Debug\netcoreapp3.1\Ex02-Conditionals.genruntimeconfig.cache

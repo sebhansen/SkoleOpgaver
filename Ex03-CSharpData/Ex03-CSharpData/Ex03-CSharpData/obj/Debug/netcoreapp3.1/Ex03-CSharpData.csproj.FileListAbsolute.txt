@@ -1,0 +1,14 @@
+C:\Users\basse\source\repos\Skole\Ex03-CSharpData\Ex03-CSharpData\Ex03-CSharpData\bin\Debug\netcoreapp3.1\Ex03-CSharpData.exe
+C:\Users\basse\source\repos\Skole\Ex03-CSharpData\Ex03-CSharpData\Ex03-CSharpData\bin\Debug\netcoreapp3.1\Ex03-CSharpData.deps.json
+C:\Users\basse\source\repos\Skole\Ex03-CSharpData\Ex03-CSharpData\Ex03-CSharpData\bin\Debug\netcoreapp3.1\Ex03-CSharpData.runtimeconfig.json
+C:\Users\basse\source\repos\Skole\Ex03-CSharpData\Ex03-CSharpData\Ex03-CSharpData\bin\Debug\netcoreapp3.1\Ex03-CSharpData.runtimeconfig.dev.json
+C:\Users\basse\source\repos\Skole\Ex03-CSharpData\Ex03-CSharpData\Ex03-CSharpData\bin\Debug\netcoreapp3.1\Ex03-CSharpData.dll
+C:\Users\basse\source\repos\Skole\Ex03-CSharpData\Ex03-CSharpData\Ex03-CSharpData\bin\Debug\netcoreapp3.1\Ex03-CSharpData.pdb
+C:\Users\basse\source\repos\Skole\Ex03-CSharpData\Ex03-CSharpData\Ex03-CSharpData\obj\Debug\netcoreapp3.1\Ex03-CSharpData.csproj.AssemblyReference.cache
+C:\Users\basse\source\repos\Skole\Ex03-CSharpData\Ex03-CSharpData\Ex03-CSharpData\obj\Debug\netcoreapp3.1\Ex03-CSharpData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basse\source\repos\Skole\Ex03-CSharpData\Ex03-CSharpData\Ex03-CSharpData\obj\Debug\netcoreapp3.1\Ex03-CSharpData.AssemblyInfoInputs.cache
+C:\Users\basse\source\repos\Skole\Ex03-CSharpData\Ex03-CSharpData\Ex03-CSharpData\obj\Debug\netcoreapp3.1\Ex03-CSharpData.AssemblyInfo.cs
+C:\Users\basse\source\repos\Skole\Ex03-CSharpData\Ex03-CSharpData\Ex03-CSharpData\obj\Debug\netcoreapp3.1\Ex03-CSharpData.csproj.CoreCompileInputs.cache
+C:\Users\basse\source\repos\Skole\Ex03-CSharpData\Ex03-CSharpData\Ex03-CSharpData\obj\Debug\netcoreapp3.1\Ex03-CSharpData.dll
+C:\Users\basse\source\repos\Skole\Ex03-CSharpData\Ex03-CSharpData\Ex03-CSharpData\obj\Debug\netcoreapp3.1\Ex03-CSharpData.pdb
+C:\Users\basse\source\repos\Skole\Ex03-CSharpData\Ex03-CSharpData\Ex03-CSharpData\obj\Debug\netcoreapp3.1\Ex03-CSharpData.genruntimeconfig.cache

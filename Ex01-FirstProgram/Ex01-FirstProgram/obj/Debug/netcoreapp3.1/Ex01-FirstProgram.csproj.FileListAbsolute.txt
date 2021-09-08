@@ -1,0 +1,14 @@
+C:\Users\basse\source\repos\Skole\Ex01-FirstProgram\Ex01-FirstProgram\bin\Debug\netcoreapp3.1\Ex01-FirstProgram.exe
+C:\Users\basse\source\repos\Skole\Ex01-FirstProgram\Ex01-FirstProgram\bin\Debug\netcoreapp3.1\Ex01-FirstProgram.deps.json
+C:\Users\basse\source\repos\Skole\Ex01-FirstProgram\Ex01-FirstProgram\bin\Debug\netcoreapp3.1\Ex01-FirstProgram.runtimeconfig.json
+C:\Users\basse\source\repos\Skole\Ex01-FirstProgram\Ex01-FirstProgram\bin\Debug\netcoreapp3.1\Ex01-FirstProgram.runtimeconfig.dev.json
+C:\Users\basse\source\repos\Skole\Ex01-FirstProgram\Ex01-FirstProgram\bin\Debug\netcoreapp3.1\Ex01-FirstProgram.dll
+C:\Users\basse\source\repos\Skole\Ex01-FirstProgram\Ex01-FirstProgram\bin\Debug\netcoreapp3.1\Ex01-FirstProgram.pdb
+C:\Users\basse\source\repos\Skole\Ex01-FirstProgram\Ex01-FirstProgram\obj\Debug\netcoreapp3.1\Ex01-FirstProgram.csproj.AssemblyReference.cache
+C:\Users\basse\source\repos\Skole\Ex01-FirstProgram\Ex01-FirstProgram\obj\Debug\netcoreapp3.1\Ex01-FirstProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basse\source\repos\Skole\Ex01-FirstProgram\Ex01-FirstProgram\obj\Debug\netcoreapp3.1\Ex01-FirstProgram.AssemblyInfoInputs.cache
+C:\Users\basse\source\repos\Skole\Ex01-FirstProgram\Ex01-FirstProgram\obj\Debug\netcoreapp3.1\Ex01-FirstProgram.AssemblyInfo.cs
+C:\Users\basse\source\repos\Skole\Ex01-FirstProgram\Ex01-FirstProgram\obj\Debug\netcoreapp3.1\Ex01-FirstProgram.csproj.CoreCompileInputs.cache
+C:\Users\basse\source\repos\Skole\Ex01-FirstProgram\Ex01-FirstProgram\obj\Debug\netcoreapp3.1\Ex01-FirstProgram.dll
+C:\Users\basse\source\repos\Skole\Ex01-FirstProgram\Ex01-FirstProgram\obj\Debug\netcoreapp3.1\Ex01-FirstProgram.pdb
+C:\Users\basse\source\repos\Skole\Ex01-FirstProgram\Ex01-FirstProgram\obj\Debug\netcoreapp3.1\Ex01-FirstProgram.genruntimeconfig.cache
