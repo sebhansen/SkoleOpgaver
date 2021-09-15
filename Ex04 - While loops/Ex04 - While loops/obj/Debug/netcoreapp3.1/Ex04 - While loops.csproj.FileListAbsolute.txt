@@ -1,0 +1,14 @@
+C:\Users\basse\source\repos\Skole\Ex04 - While loops\Ex04 - While loops\bin\Debug\netcoreapp3.1\Ex04 - While loops.exe
+C:\Users\basse\source\repos\Skole\Ex04 - While loops\Ex04 - While loops\bin\Debug\netcoreapp3.1\Ex04 - While loops.deps.json
+C:\Users\basse\source\repos\Skole\Ex04 - While loops\Ex04 - While loops\bin\Debug\netcoreapp3.1\Ex04 - While loops.runtimeconfig.json
+C:\Users\basse\source\repos\Skole\Ex04 - While loops\Ex04 - While loops\bin\Debug\netcoreapp3.1\Ex04 - While loops.runtimeconfig.dev.json
+C:\Users\basse\source\repos\Skole\Ex04 - While loops\Ex04 - While loops\bin\Debug\netcoreapp3.1\Ex04 - While loops.dll
+C:\Users\basse\source\repos\Skole\Ex04 - While loops\Ex04 - While loops\bin\Debug\netcoreapp3.1\Ex04 - While loops.pdb
+C:\Users\basse\source\repos\Skole\Ex04 - While loops\Ex04 - While loops\obj\Debug\netcoreapp3.1\Ex04 - While loops.csproj.AssemblyReference.cache
+C:\Users\basse\source\repos\Skole\Ex04 - While loops\Ex04 - While loops\obj\Debug\netcoreapp3.1\Ex04 - While loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basse\source\repos\Skole\Ex04 - While loops\Ex04 - While loops\obj\Debug\netcoreapp3.1\Ex04 - While loops.AssemblyInfoInputs.cache
+C:\Users\basse\source\repos\Skole\Ex04 - While loops\Ex04 - While loops\obj\Debug\netcoreapp3.1\Ex04 - While loops.AssemblyInfo.cs
+C:\Users\basse\source\repos\Skole\Ex04 - While loops\Ex04 - While loops\obj\Debug\netcoreapp3.1\Ex04 - While loops.csproj.CoreCompileInputs.cache
+C:\Users\basse\source\repos\Skole\Ex04 - While loops\Ex04 - While loops\obj\Debug\netcoreapp3.1\Ex04 - While loops.dll
+C:\Users\basse\source\repos\Skole\Ex04 - While loops\Ex04 - While loops\obj\Debug\netcoreapp3.1\Ex04 - While loops.pdb
+C:\Users\basse\source\repos\Skole\Ex04 - While loops\Ex04 - While loops\obj\Debug\netcoreapp3.1\Ex04 - While loops.genruntimeconfig.cache

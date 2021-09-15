@@ -6,18 +6,102 @@ namespace Ex03_CSharpData
     {
         static void Main(string[] args)
         {
-            int function;
-            start:
-            Console.WriteLine("Ex03-CSharpData - Beregner");
-            Console.WriteLine("Vælg hvilken funktion du vil tage i brug");
-            Console.WriteLine("1. Beregn areal af rektangel\n" +
-                              "2. Beregn hældning af linjestykke\n" +
-                              "3. String length\n" +
-                              "4. String Substring\n" +
-                              "5. IndexOf()");
-                               
-            function = Convert.ToInt32(Console.ReadLine());
-            if (function == 1) // Beregn rektangel
+            //Switch statement samt while loop er sat ind til Ex04
+            bool continueLoop = true;
+            while (continueLoop) // Runs the program until continueLoop is set to false by user choosing "9".
+            {
+                //int function;
+                //start:
+                Console.WriteLine("Ex03-CSharpData - Beregner");
+                Console.WriteLine("Vælg hvilken funktion du vil tage i brug");
+                Console.WriteLine("1. Beregn areal af rektangel\n" +
+                                  "2. Beregn hældning af linjestykke\n" +
+                                  "3. String length\n" +
+                                  "4. String Substring\n" +
+                                  "5. IndexOf()\n" +
+                                  "9. Afslut program");
+
+                //function = Convert.ToInt32(Console.ReadLine());
+                int OptionNumber = Convert.ToInt32(Console.ReadLine());
+                switch (OptionNumber)
+                {
+                    case 1:
+                        try
+                        {
+                            Console.WriteLine("Indsæt længde");
+                            int BoxLength = Convert.ToInt32(Console.ReadLine());
+                            Console.WriteLine("Indsæt højde");
+                            int BoxHeight = Convert.ToInt32(Console.ReadLine());
+                            int BoxArea = BoxHeight * BoxLength;
+                            Console.WriteLine($"Firkantens areal er {BoxArea}");
+                        }
+                        catch
+                        {
+                            Console.WriteLine("Input has to be an integer!");
+                        }
+                        Console.ReadLine();
+                        break;
+
+                    case 2:
+                        try
+                        {
+                            Console.WriteLine("Skriv x1's koordinat: ");
+                            double x1 = Convert.ToInt32(Console.ReadLine());
+                            Console.WriteLine("Skriv y1's koordinat: ");
+                            double y1 = Convert.ToInt32(Console.ReadLine());
+                            Console.WriteLine("Skriv x2's koordinat: ");
+                            double x2 = Convert.ToInt32(Console.ReadLine());
+                            Console.WriteLine("Skriv y2's koordinat: ");
+                            double y2 = Convert.ToInt32(Console.ReadLine());
+                            double slope = (y2 - y1) / (x2 - x1);
+                            Console.WriteLine($"Hældningen på linjestykket er {slope}");
+                        }
+                        catch
+                        {
+                            Console.WriteLine("Input has to be an integer!");
+                        }
+                        Console.ReadLine();
+                        break;
+
+                    case 3:
+                        try
+                        {
+                            Console.WriteLine("Skriv en sætning eller et ord, Så fortæller vi dig hvor mange karakterer der er.");
+                            string UserInput = Console.ReadLine();
+                            Console.WriteLine($"Dit input indeholder {UserInput.Length} karakterer");
+                        }
+                        catch (Exception)
+                        {
+                            Console.WriteLine("Dit input er ikke validt");
+                        }
+                        Console.ReadLine();
+                        break;
+
+                    case 4:
+                        Console.WriteLine("4");
+                        Console.ReadLine();
+                        break;
+
+                    case 5:
+                        Console.WriteLine("5");
+                        Console.ReadLine();
+                        break;
+
+                    case 9:
+                        Console.WriteLine("Vi ses, hoe");
+                        Console.WriteLine("Tryk på en vilkårlig tast for at lukke programmet");
+                        continueLoop = false;
+                        Console.ReadLine();
+                        break;
+
+                    default:
+                        Console.WriteLine("Wrong input! Insert a number 1-5");
+                        break;
+                }
+            }
+
+
+          /*  if (function == 1) // Beregn rektangel
             {
                 try
                 {
@@ -147,6 +231,7 @@ namespace Ex03_CSharpData
                 Console.Clear();
                 goto start;
             }
+          */
         }
     }
 }
