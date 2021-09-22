@@ -1,0 +1,12 @@
+C:\Users\basse\source\repos\Skole\Ex09-OrangeTree\OrangeTreeSim\.vs\OrangeTreeSim\v16\lut\0\b\OrangeTreeSim\Debug\netcoreapp3.1\OrangeTreeSim.exe
+C:\Users\basse\source\repos\Skole\Ex09-OrangeTree\OrangeTreeSim\.vs\OrangeTreeSim\v16\lut\0\b\OrangeTreeSim\Debug\netcoreapp3.1\OrangeTreeSim.deps.json
+C:\Users\basse\source\repos\Skole\Ex09-OrangeTree\OrangeTreeSim\.vs\OrangeTreeSim\v16\lut\0\b\OrangeTreeSim\Debug\netcoreapp3.1\OrangeTreeSim.runtimeconfig.json
+C:\Users\basse\source\repos\Skole\Ex09-OrangeTree\OrangeTreeSim\.vs\OrangeTreeSim\v16\lut\0\b\OrangeTreeSim\Debug\netcoreapp3.1\OrangeTreeSim.runtimeconfig.dev.json
+C:\Users\basse\source\repos\Skole\Ex09-OrangeTree\OrangeTreeSim\.vs\OrangeTreeSim\v16\lut\0\b\OrangeTreeSim\Debug\netcoreapp3.1\OrangeTreeSim.dll
+C:\Users\basse\source\repos\Skole\Ex09-OrangeTree\OrangeTreeSim\.vs\OrangeTreeSim\v16\lut\0\i\OrangeTreeSim\Debug\netcoreapp3.1\OrangeTreeSim.csproj.AssemblyReference.cache
+C:\Users\basse\source\repos\Skole\Ex09-OrangeTree\OrangeTreeSim\.vs\OrangeTreeSim\v16\lut\0\i\OrangeTreeSim\Debug\netcoreapp3.1\OrangeTreeSim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basse\source\repos\Skole\Ex09-OrangeTree\OrangeTreeSim\.vs\OrangeTreeSim\v16\lut\0\i\OrangeTreeSim\Debug\netcoreapp3.1\OrangeTreeSim.AssemblyInfoInputs.cache
+C:\Users\basse\source\repos\Skole\Ex09-OrangeTree\OrangeTreeSim\.vs\OrangeTreeSim\v16\lut\0\i\OrangeTreeSim\Debug\netcoreapp3.1\OrangeTreeSim.AssemblyInfo.cs
+C:\Users\basse\source\repos\Skole\Ex09-OrangeTree\OrangeTreeSim\.vs\OrangeTreeSim\v16\lut\0\i\OrangeTreeSim\Debug\netcoreapp3.1\OrangeTreeSim.csproj.CopyComplete
+C:\Users\basse\source\repos\Skole\Ex09-OrangeTree\OrangeTreeSim\.vs\OrangeTreeSim\v16\lut\0\i\OrangeTreeSim\Debug\netcoreapp3.1\OrangeTreeSim.dll
+C:\Users\basse\source\repos\Skole\Ex09-OrangeTree\OrangeTreeSim\.vs\OrangeTreeSim\v16\lut\0\i\OrangeTreeSim\Debug\netcoreapp3.1\OrangeTreeSim.genruntimeconfig.cache

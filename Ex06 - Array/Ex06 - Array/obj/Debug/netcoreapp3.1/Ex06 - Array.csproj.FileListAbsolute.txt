@@ -1,0 +1,14 @@
+C:\Users\basse\source\repos\Skole\Ex06 - Array\Ex06 - Array\bin\Debug\netcoreapp3.1\Ex06 - Array.exe
+C:\Users\basse\source\repos\Skole\Ex06 - Array\Ex06 - Array\bin\Debug\netcoreapp3.1\Ex06 - Array.deps.json
+C:\Users\basse\source\repos\Skole\Ex06 - Array\Ex06 - Array\bin\Debug\netcoreapp3.1\Ex06 - Array.runtimeconfig.json
+C:\Users\basse\source\repos\Skole\Ex06 - Array\Ex06 - Array\bin\Debug\netcoreapp3.1\Ex06 - Array.runtimeconfig.dev.json
+C:\Users\basse\source\repos\Skole\Ex06 - Array\Ex06 - Array\bin\Debug\netcoreapp3.1\Ex06 - Array.dll
+C:\Users\basse\source\repos\Skole\Ex06 - Array\Ex06 - Array\bin\Debug\netcoreapp3.1\Ex06 - Array.pdb
+C:\Users\basse\source\repos\Skole\Ex06 - Array\Ex06 - Array\obj\Debug\netcoreapp3.1\Ex06 - Array.csproj.AssemblyReference.cache
+C:\Users\basse\source\repos\Skole\Ex06 - Array\Ex06 - Array\obj\Debug\netcoreapp3.1\Ex06 - Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basse\source\repos\Skole\Ex06 - Array\Ex06 - Array\obj\Debug\netcoreapp3.1\Ex06 - Array.AssemblyInfoInputs.cache
+C:\Users\basse\source\repos\Skole\Ex06 - Array\Ex06 - Array\obj\Debug\netcoreapp3.1\Ex06 - Array.AssemblyInfo.cs
+C:\Users\basse\source\repos\Skole\Ex06 - Array\Ex06 - Array\obj\Debug\netcoreapp3.1\Ex06 - Array.csproj.CoreCompileInputs.cache
+C:\Users\basse\source\repos\Skole\Ex06 - Array\Ex06 - Array\obj\Debug\netcoreapp3.1\Ex06 - Array.dll
+C:\Users\basse\source\repos\Skole\Ex06 - Array\Ex06 - Array\obj\Debug\netcoreapp3.1\Ex06 - Array.pdb
+C:\Users\basse\source\repos\Skole\Ex06 - Array\Ex06 - Array\obj\Debug\netcoreapp3.1\Ex06 - Array.genruntimeconfig.cache

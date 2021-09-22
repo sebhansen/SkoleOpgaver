@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Ex05__Calculator
 {
-    class Calculator
+    public class Calculator
     {
         public int Add(int NumA, int NumB)
         {

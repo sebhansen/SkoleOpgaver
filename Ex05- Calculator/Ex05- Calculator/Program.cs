@@ -6,7 +6,7 @@ namespace Ex05__Calculator
     class Program       
     {
         static void Main(string[] args)
-        { //VERSION 1.0.0
+        { //VERSION 1.0.1
             bool EndProgram = false;
             Calculator calc = new Calculator(); //Declaring object of the Calculator class
             int UserChoice = 0;

@@ -1,0 +1,14 @@
+C:\Users\basse\source\repos\Skole\Ex07 - Menu\MenuSystem\MenuSystem\bin\Debug\netcoreapp3.1\MenuSystem.exe
+C:\Users\basse\source\repos\Skole\Ex07 - Menu\MenuSystem\MenuSystem\bin\Debug\netcoreapp3.1\MenuSystem.deps.json
+C:\Users\basse\source\repos\Skole\Ex07 - Menu\MenuSystem\MenuSystem\bin\Debug\netcoreapp3.1\MenuSystem.runtimeconfig.json
+C:\Users\basse\source\repos\Skole\Ex07 - Menu\MenuSystem\MenuSystem\bin\Debug\netcoreapp3.1\MenuSystem.runtimeconfig.dev.json
+C:\Users\basse\source\repos\Skole\Ex07 - Menu\MenuSystem\MenuSystem\bin\Debug\netcoreapp3.1\MenuSystem.dll
+C:\Users\basse\source\repos\Skole\Ex07 - Menu\MenuSystem\MenuSystem\bin\Debug\netcoreapp3.1\MenuSystem.pdb
+C:\Users\basse\source\repos\Skole\Ex07 - Menu\MenuSystem\MenuSystem\obj\Debug\netcoreapp3.1\MenuSystem.csproj.AssemblyReference.cache
+C:\Users\basse\source\repos\Skole\Ex07 - Menu\MenuSystem\MenuSystem\obj\Debug\netcoreapp3.1\MenuSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basse\source\repos\Skole\Ex07 - Menu\MenuSystem\MenuSystem\obj\Debug\netcoreapp3.1\MenuSystem.AssemblyInfoInputs.cache
+C:\Users\basse\source\repos\Skole\Ex07 - Menu\MenuSystem\MenuSystem\obj\Debug\netcoreapp3.1\MenuSystem.AssemblyInfo.cs
+C:\Users\basse\source\repos\Skole\Ex07 - Menu\MenuSystem\MenuSystem\obj\Debug\netcoreapp3.1\MenuSystem.csproj.CoreCompileInputs.cache
+C:\Users\basse\source\repos\Skole\Ex07 - Menu\MenuSystem\MenuSystem\obj\Debug\netcoreapp3.1\MenuSystem.dll
+C:\Users\basse\source\repos\Skole\Ex07 - Menu\MenuSystem\MenuSystem\obj\Debug\netcoreapp3.1\MenuSystem.pdb
+C:\Users\basse\source\repos\Skole\Ex07 - Menu\MenuSystem\MenuSystem\obj\Debug\netcoreapp3.1\MenuSystem.genruntimeconfig.cache
