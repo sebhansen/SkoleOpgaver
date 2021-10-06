@@ -1,0 +1,14 @@
+C:\Users\basse\source\repos\Skole\Ex12-Persistence\Ex12-Persistence\obj\Debug\netcoreapp3.1\Ex12-Persistence.csproj.AssemblyReference.cache
+C:\Users\basse\source\repos\Skole\Ex12-Persistence\Ex12-Persistence\obj\Debug\netcoreapp3.1\Ex12-Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basse\source\repos\Skole\Ex12-Persistence\Ex12-Persistence\obj\Debug\netcoreapp3.1\Ex12-Persistence.AssemblyInfoInputs.cache
+C:\Users\basse\source\repos\Skole\Ex12-Persistence\Ex12-Persistence\obj\Debug\netcoreapp3.1\Ex12-Persistence.AssemblyInfo.cs
+C:\Users\basse\source\repos\Skole\Ex12-Persistence\Ex12-Persistence\obj\Debug\netcoreapp3.1\Ex12-Persistence.csproj.CoreCompileInputs.cache
+C:\Users\basse\source\repos\Skole\Ex12-Persistence\Ex12-Persistence\bin\Debug\netcoreapp3.1\Ex12-Persistence.exe
+C:\Users\basse\source\repos\Skole\Ex12-Persistence\Ex12-Persistence\bin\Debug\netcoreapp3.1\Ex12-Persistence.deps.json
+C:\Users\basse\source\repos\Skole\Ex12-Persistence\Ex12-Persistence\bin\Debug\netcoreapp3.1\Ex12-Persistence.runtimeconfig.json
+C:\Users\basse\source\repos\Skole\Ex12-Persistence\Ex12-Persistence\bin\Debug\netcoreapp3.1\Ex12-Persistence.runtimeconfig.dev.json
+C:\Users\basse\source\repos\Skole\Ex12-Persistence\Ex12-Persistence\bin\Debug\netcoreapp3.1\Ex12-Persistence.dll
+C:\Users\basse\source\repos\Skole\Ex12-Persistence\Ex12-Persistence\bin\Debug\netcoreapp3.1\Ex12-Persistence.pdb
+C:\Users\basse\source\repos\Skole\Ex12-Persistence\Ex12-Persistence\obj\Debug\netcoreapp3.1\Ex12-Persistence.dll
+C:\Users\basse\source\repos\Skole\Ex12-Persistence\Ex12-Persistence\obj\Debug\netcoreapp3.1\Ex12-Persistence.pdb
+C:\Users\basse\source\repos\Skole\Ex12-Persistence\Ex12-Persistence\obj\Debug\netcoreapp3.1\Ex12-Persistence.genruntimeconfig.cache
