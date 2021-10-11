@@ -3,9 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex15-Disaheim", "Ex15-Disaheim\Ex15-Disaheim.csproj", "{065D6B4C-89C1-4654-9879-26F0B818EEBC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex15-Disaheim", "Ex15-Disaheim\Ex15-Disaheim.csproj", "{065D6B4C-89C1-4654-9879-26F0B818EEBC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisaheimTest", "DisaheimTest\DisaheimTest.csproj", "{CB5FDFFA-9A20-4F97-BD54-5398CD304A66}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DisaheimTest", "DisaheimTest\DisaheimTest.csproj", "{CB5FDFFA-9A20-4F97-BD54-5398CD304A66}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DisaheimTest2", "DisaheimTest2\DisaheimTest2.csproj", "{B8E07871-1392-4958-BF76-0B8B38C5232B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DisaheimTest3", "DisaheimTest3\DisaheimTest3.csproj", "{E6E834C7-BA4D-4699-9C75-6B2F80EFE994}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UtilityLib", "UtilityLib\UtilityLib.csproj", "{ABC19072-2B5D-4A14-BBAC-DE4C839F97AC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +27,18 @@ Global
 		{CB5FDFFA-9A20-4F97-BD54-5398CD304A66}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CB5FDFFA-9A20-4F97-BD54-5398CD304A66}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CB5FDFFA-9A20-4F97-BD54-5398CD304A66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8E07871-1392-4958-BF76-0B8B38C5232B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8E07871-1392-4958-BF76-0B8B38C5232B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8E07871-1392-4958-BF76-0B8B38C5232B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8E07871-1392-4958-BF76-0B8B38C5232B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6E834C7-BA4D-4699-9C75-6B2F80EFE994}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6E834C7-BA4D-4699-9C75-6B2F80EFE994}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6E834C7-BA4D-4699-9C75-6B2F80EFE994}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6E834C7-BA4D-4699-9C75-6B2F80EFE994}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABC19072-2B5D-4A14-BBAC-DE4C839F97AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABC19072-2B5D-4A14-BBAC-DE4C839F97AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABC19072-2B5D-4A14-BBAC-DE4C839F97AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABC19072-2B5D-4A14-BBAC-DE4C839F97AC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

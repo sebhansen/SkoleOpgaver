@@ -4,17 +4,17 @@ using System.Text;
 
 namespace Ex15_Disaheim
 {
-    public class Amulet
+    public class Amulet : Merchandise
     {
-        public string ItemId{ get; set; }
+        //Merchandise merch = new Merchandise();
         public Level Quality{ get; set; }
         public string Design{ get; set; }
 
-        public Amulet(string itemId)
+        public Amulet(string itemId) : this(itemId, Level.medium)
         {
             ItemId = itemId;
         }
-        public Amulet(string itemId, Level quality)
+        public Amulet(string itemId, Level quality) : this(itemId, quality, "")
         {
             ItemId = itemId;
             Quality = quality;

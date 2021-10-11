@@ -6,6 +6,8 @@ namespace Ex15_Disaheim
 {
     public enum Level
     {
-        medium, low, high
+        low,
+        medium,
+        high
     }
 }

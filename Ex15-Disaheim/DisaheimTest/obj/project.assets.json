@@ -1670,6 +1670,19 @@
         "runtime": {
           "bin/placeholder/Ex15-Disaheim.dll": {}
         }
+      },
+      "UtilityLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Ex15-Disaheim": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/UtilityLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UtilityLib.dll": {}
+        }
       }
     }
   },
@@ -6118,6 +6131,11 @@
       "type": "project",
       "path": "../Ex15-Disaheim/Ex15-Disaheim.csproj",
       "msbuildProject": "../Ex15-Disaheim/Ex15-Disaheim.csproj"
+    },
+    "UtilityLib/1.0.0": {
+      "type": "project",
+      "path": "../UtilityLib/UtilityLib.csproj",
+      "msbuildProject": "../UtilityLib/UtilityLib.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -6126,6 +6144,7 @@
       "MSTest.TestAdapter >= 2.2.3",
       "MSTest.TestFramework >= 2.2.3",
       "Microsoft.NET.Test.Sdk >= 16.9.4",
+      "UtilityLib >= 1.0.0",
       "coverlet.collector >= 3.0.2"
     ]
   },
@@ -6158,6 +6177,9 @@
           "projectReferences": {
             "C:\\Users\\basse\\source\\repos\\Skole\\Ex15-Disaheim\\Ex15-Disaheim\\Ex15-Disaheim.csproj": {
               "projectPath": "C:\\Users\\basse\\source\\repos\\Skole\\Ex15-Disaheim\\Ex15-Disaheim\\Ex15-Disaheim.csproj"
+            },
+            "C:\\Users\\basse\\source\\repos\\Skole\\Ex15-Disaheim\\UtilityLib\\UtilityLib.csproj": {
+              "projectPath": "C:\\Users\\basse\\source\\repos\\Skole\\Ex15-Disaheim\\UtilityLib\\UtilityLib.csproj"
             }
           }
         }

@@ -1,0 +1,17 @@
+C:\Users\basse\source\repos\Skole\Ex15-Disaheim\UtilityLib\bin\Debug\netcoreapp3.1\Ex15-Disaheim.deps.json
+C:\Users\basse\source\repos\Skole\Ex15-Disaheim\UtilityLib\bin\Debug\netcoreapp3.1\Ex15-Disaheim.runtimeconfig.json
+C:\Users\basse\source\repos\Skole\Ex15-Disaheim\UtilityLib\bin\Debug\netcoreapp3.1\Ex15-Disaheim.runtimeconfig.dev.json
+C:\Users\basse\source\repos\Skole\Ex15-Disaheim\UtilityLib\bin\Debug\netcoreapp3.1\Ex15-Disaheim.exe
+C:\Users\basse\source\repos\Skole\Ex15-Disaheim\UtilityLib\bin\Debug\netcoreapp3.1\UtilityLib.deps.json
+C:\Users\basse\source\repos\Skole\Ex15-Disaheim\UtilityLib\bin\Debug\netcoreapp3.1\UtilityLib.dll
+C:\Users\basse\source\repos\Skole\Ex15-Disaheim\UtilityLib\bin\Debug\netcoreapp3.1\UtilityLib.pdb
+C:\Users\basse\source\repos\Skole\Ex15-Disaheim\UtilityLib\bin\Debug\netcoreapp3.1\Ex15-Disaheim.dll
+C:\Users\basse\source\repos\Skole\Ex15-Disaheim\UtilityLib\bin\Debug\netcoreapp3.1\Ex15-Disaheim.pdb
+C:\Users\basse\source\repos\Skole\Ex15-Disaheim\UtilityLib\obj\Debug\netcoreapp3.1\UtilityLib.csproj.AssemblyReference.cache
+C:\Users\basse\source\repos\Skole\Ex15-Disaheim\UtilityLib\obj\Debug\netcoreapp3.1\UtilityLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basse\source\repos\Skole\Ex15-Disaheim\UtilityLib\obj\Debug\netcoreapp3.1\UtilityLib.AssemblyInfoInputs.cache
+C:\Users\basse\source\repos\Skole\Ex15-Disaheim\UtilityLib\obj\Debug\netcoreapp3.1\UtilityLib.AssemblyInfo.cs
+C:\Users\basse\source\repos\Skole\Ex15-Disaheim\UtilityLib\obj\Debug\netcoreapp3.1\UtilityLib.csproj.CoreCompileInputs.cache
+C:\Users\basse\source\repos\Skole\Ex15-Disaheim\UtilityLib\obj\Debug\netcoreapp3.1\UtilityLib.csproj.CopyComplete
+C:\Users\basse\source\repos\Skole\Ex15-Disaheim\UtilityLib\obj\Debug\netcoreapp3.1\UtilityLib.dll
+C:\Users\basse\source\repos\Skole\Ex15-Disaheim\UtilityLib\obj\Debug\netcoreapp3.1\UtilityLib.pdb

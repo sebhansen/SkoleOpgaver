@@ -4,9 +4,9 @@ using System.Text;
 
 namespace Ex15_Disaheim
 {
-    public class Book
+    public class Book : Merchandise
     {
-        public string ItemId { get; set; }
+        //Merchandise merch = new Merchandise();
         public string Title { get; set; }
         public double Price { get; set; }
 

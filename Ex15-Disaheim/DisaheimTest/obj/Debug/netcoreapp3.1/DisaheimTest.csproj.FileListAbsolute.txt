@@ -102,3 +102,5 @@ C:\Users\basse\source\repos\Skole\Ex15-Disaheim\DisaheimTest\obj\Debug\netcoreap
 C:\Users\basse\source\repos\Skole\Ex15-Disaheim\DisaheimTest\obj\Debug\netcoreapp3.1\DisaheimTest.dll
 C:\Users\basse\source\repos\Skole\Ex15-Disaheim\DisaheimTest\obj\Debug\netcoreapp3.1\DisaheimTest.pdb
 C:\Users\basse\source\repos\Skole\Ex15-Disaheim\DisaheimTest\obj\Debug\netcoreapp3.1\DisaheimTest.genruntimeconfig.cache
+C:\Users\basse\source\repos\Skole\Ex15-Disaheim\DisaheimTest\bin\Debug\netcoreapp3.1\UtilityLib.dll
+C:\Users\basse\source\repos\Skole\Ex15-Disaheim\DisaheimTest\bin\Debug\netcoreapp3.1\UtilityLib.pdb

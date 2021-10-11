@@ -12,6 +12,7 @@
           "MSTest.TestAdapter": "2.2.3",
           "MSTest.TestFramework": "2.2.3",
           "Microsoft.NET.Test.Sdk": "16.9.4",
+          "UtilityLib": "1.0.0",
           "coverlet.collector": "3.0.2"
         },
         "runtime": {
@@ -1081,6 +1082,14 @@
         "runtime": {
           "Ex15-Disaheim.dll": {}
         }
+      },
+      "UtilityLib/1.0.0": {
+        "dependencies": {
+          "Ex15-Disaheim": "1.0.0"
+        },
+        "runtime": {
+          "UtilityLib.dll": {}
+        }
       }
     }
   },
@@ -1707,6 +1716,11 @@
       "hashPath": "system.xml.xdocument.4.3.0.nupkg.sha512"
     },
     "Ex15-Disaheim/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UtilityLib/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
