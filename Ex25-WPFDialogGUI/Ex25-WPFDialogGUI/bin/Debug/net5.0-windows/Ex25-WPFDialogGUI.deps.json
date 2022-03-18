@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ex25-WPFDialogGUI/1.0.0": {
+        "runtime": {
+          "Ex25-WPFDialogGUI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex25-WPFDialogGUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

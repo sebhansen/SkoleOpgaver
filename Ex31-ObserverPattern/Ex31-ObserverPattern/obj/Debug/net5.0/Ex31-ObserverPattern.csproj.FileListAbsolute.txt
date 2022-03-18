@@ -1,0 +1,15 @@
+C:\Users\basse\source\repos\Ex31-ObserverPattern\Ex31-ObserverPattern\bin\Debug\net5.0\Ex31-ObserverPattern.exe
+C:\Users\basse\source\repos\Ex31-ObserverPattern\Ex31-ObserverPattern\bin\Debug\net5.0\Ex31-ObserverPattern.deps.json
+C:\Users\basse\source\repos\Ex31-ObserverPattern\Ex31-ObserverPattern\bin\Debug\net5.0\Ex31-ObserverPattern.runtimeconfig.json
+C:\Users\basse\source\repos\Ex31-ObserverPattern\Ex31-ObserverPattern\bin\Debug\net5.0\Ex31-ObserverPattern.runtimeconfig.dev.json
+C:\Users\basse\source\repos\Ex31-ObserverPattern\Ex31-ObserverPattern\bin\Debug\net5.0\Ex31-ObserverPattern.dll
+C:\Users\basse\source\repos\Ex31-ObserverPattern\Ex31-ObserverPattern\bin\Debug\net5.0\ref\Ex31-ObserverPattern.dll
+C:\Users\basse\source\repos\Ex31-ObserverPattern\Ex31-ObserverPattern\bin\Debug\net5.0\Ex31-ObserverPattern.pdb
+C:\Users\basse\source\repos\Ex31-ObserverPattern\Ex31-ObserverPattern\obj\Debug\net5.0\Ex31-ObserverPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basse\source\repos\Ex31-ObserverPattern\Ex31-ObserverPattern\obj\Debug\net5.0\Ex31-ObserverPattern.AssemblyInfoInputs.cache
+C:\Users\basse\source\repos\Ex31-ObserverPattern\Ex31-ObserverPattern\obj\Debug\net5.0\Ex31-ObserverPattern.AssemblyInfo.cs
+C:\Users\basse\source\repos\Ex31-ObserverPattern\Ex31-ObserverPattern\obj\Debug\net5.0\Ex31-ObserverPattern.csproj.CoreCompileInputs.cache
+C:\Users\basse\source\repos\Ex31-ObserverPattern\Ex31-ObserverPattern\obj\Debug\net5.0\Ex31-ObserverPattern.dll
+C:\Users\basse\source\repos\Ex31-ObserverPattern\Ex31-ObserverPattern\obj\Debug\net5.0\ref\Ex31-ObserverPattern.dll
+C:\Users\basse\source\repos\Ex31-ObserverPattern\Ex31-ObserverPattern\obj\Debug\net5.0\Ex31-ObserverPattern.pdb
+C:\Users\basse\source\repos\Ex31-ObserverPattern\Ex31-ObserverPattern\obj\Debug\net5.0\Ex31-ObserverPattern.genruntimeconfig.cache

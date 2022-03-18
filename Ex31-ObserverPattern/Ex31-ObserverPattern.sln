@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex31-ObserverPattern", "Ex31-ObserverPattern\Ex31-ObserverPattern.csproj", "{E325CA38-B4A0-46FD-B329-A030E010D84A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestProject1", "TestProject1\TestProject1.csproj", "{4836134E-FC1D-4AFB-8B94-94EC8E9BD81D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Opgave 2-3", "Opgave 2-3", "{E181FC94-0649-4D64-9E4F-788B400A9A4C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Opgave 4", "Opgave 4", "{E0ACD9A2-94B6-47B3-BA7C-65A6A00E2BC3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Akademiet", "Meddelelsessystem til Akademiet\Akademiet.csproj", "{EB36E351-0CA3-4FF0-B74A-F86F102EE066}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ex32 - Opgave 2", "Ex32 - Opgave 2", "{401A86A8-54C9-4E49-8DD8-39C140971FB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex32", "Ex32\Ex32.csproj", "{2FADCAFB-B055-4D56-933A-FBF5BC1D3419}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E325CA38-B4A0-46FD-B329-A030E010D84A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E325CA38-B4A0-46FD-B329-A030E010D84A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E325CA38-B4A0-46FD-B329-A030E010D84A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E325CA38-B4A0-46FD-B329-A030E010D84A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4836134E-FC1D-4AFB-8B94-94EC8E9BD81D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4836134E-FC1D-4AFB-8B94-94EC8E9BD81D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4836134E-FC1D-4AFB-8B94-94EC8E9BD81D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4836134E-FC1D-4AFB-8B94-94EC8E9BD81D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB36E351-0CA3-4FF0-B74A-F86F102EE066}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB36E351-0CA3-4FF0-B74A-F86F102EE066}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB36E351-0CA3-4FF0-B74A-F86F102EE066}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB36E351-0CA3-4FF0-B74A-F86F102EE066}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FADCAFB-B055-4D56-933A-FBF5BC1D3419}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FADCAFB-B055-4D56-933A-FBF5BC1D3419}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FADCAFB-B055-4D56-933A-FBF5BC1D3419}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FADCAFB-B055-4D56-933A-FBF5BC1D3419}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E325CA38-B4A0-46FD-B329-A030E010D84A} = {E181FC94-0649-4D64-9E4F-788B400A9A4C}
+		{4836134E-FC1D-4AFB-8B94-94EC8E9BD81D} = {E181FC94-0649-4D64-9E4F-788B400A9A4C}
+		{EB36E351-0CA3-4FF0-B74A-F86F102EE066} = {E0ACD9A2-94B6-47B3-BA7C-65A6A00E2BC3}
+		{2FADCAFB-B055-4D56-933A-FBF5BC1D3419} = {401A86A8-54C9-4E49-8DD8-39C140971FB2}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {604CA567-93A7-4BB7-8C91-BC5C405BBC5A}
+	EndGlobalSection
+EndGlobal

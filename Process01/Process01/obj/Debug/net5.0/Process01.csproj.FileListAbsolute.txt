@@ -1,0 +1,15 @@
+C:\Users\basse\source\repos\Skole\Process01\Process01\bin\Debug\net5.0\Process01.exe
+C:\Users\basse\source\repos\Skole\Process01\Process01\bin\Debug\net5.0\Process01.deps.json
+C:\Users\basse\source\repos\Skole\Process01\Process01\bin\Debug\net5.0\Process01.runtimeconfig.json
+C:\Users\basse\source\repos\Skole\Process01\Process01\bin\Debug\net5.0\Process01.runtimeconfig.dev.json
+C:\Users\basse\source\repos\Skole\Process01\Process01\bin\Debug\net5.0\Process01.dll
+C:\Users\basse\source\repos\Skole\Process01\Process01\bin\Debug\net5.0\ref\Process01.dll
+C:\Users\basse\source\repos\Skole\Process01\Process01\bin\Debug\net5.0\Process01.pdb
+C:\Users\basse\source\repos\Skole\Process01\Process01\obj\Debug\net5.0\Process01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basse\source\repos\Skole\Process01\Process01\obj\Debug\net5.0\Process01.AssemblyInfoInputs.cache
+C:\Users\basse\source\repos\Skole\Process01\Process01\obj\Debug\net5.0\Process01.AssemblyInfo.cs
+C:\Users\basse\source\repos\Skole\Process01\Process01\obj\Debug\net5.0\Process01.csproj.CoreCompileInputs.cache
+C:\Users\basse\source\repos\Skole\Process01\Process01\obj\Debug\net5.0\Process01.dll
+C:\Users\basse\source\repos\Skole\Process01\Process01\obj\Debug\net5.0\ref\Process01.dll
+C:\Users\basse\source\repos\Skole\Process01\Process01\obj\Debug\net5.0\Process01.pdb
+C:\Users\basse\source\repos\Skole\Process01\Process01\obj\Debug\net5.0\Process01.genruntimeconfig.cache

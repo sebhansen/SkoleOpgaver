@@ -1,0 +1,16 @@
+C:\Users\basse\source\repos\Skole\Ex56-LINQ\BonusApp.Code\bin\Debug\net5.0\BonusApp.Code.exe
+C:\Users\basse\source\repos\Skole\Ex56-LINQ\BonusApp.Code\bin\Debug\net5.0\BonusApp.Code.deps.json
+C:\Users\basse\source\repos\Skole\Ex56-LINQ\BonusApp.Code\bin\Debug\net5.0\BonusApp.Code.runtimeconfig.json
+C:\Users\basse\source\repos\Skole\Ex56-LINQ\BonusApp.Code\bin\Debug\net5.0\BonusApp.Code.runtimeconfig.dev.json
+C:\Users\basse\source\repos\Skole\Ex56-LINQ\BonusApp.Code\bin\Debug\net5.0\BonusApp.Code.dll
+C:\Users\basse\source\repos\Skole\Ex56-LINQ\BonusApp.Code\bin\Debug\net5.0\ref\BonusApp.Code.dll
+C:\Users\basse\source\repos\Skole\Ex56-LINQ\BonusApp.Code\bin\Debug\net5.0\BonusApp.Code.pdb
+C:\Users\basse\source\repos\Skole\Ex56-LINQ\BonusApp.Code\obj\Debug\net5.0\BonusApp.Code.csproj.AssemblyReference.cache
+C:\Users\basse\source\repos\Skole\Ex56-LINQ\BonusApp.Code\obj\Debug\net5.0\BonusApp.Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basse\source\repos\Skole\Ex56-LINQ\BonusApp.Code\obj\Debug\net5.0\BonusApp.Code.AssemblyInfoInputs.cache
+C:\Users\basse\source\repos\Skole\Ex56-LINQ\BonusApp.Code\obj\Debug\net5.0\BonusApp.Code.AssemblyInfo.cs
+C:\Users\basse\source\repos\Skole\Ex56-LINQ\BonusApp.Code\obj\Debug\net5.0\BonusApp.Code.csproj.CoreCompileInputs.cache
+C:\Users\basse\source\repos\Skole\Ex56-LINQ\BonusApp.Code\obj\Debug\net5.0\BonusApp.Code.dll
+C:\Users\basse\source\repos\Skole\Ex56-LINQ\BonusApp.Code\obj\Debug\net5.0\ref\BonusApp.Code.dll
+C:\Users\basse\source\repos\Skole\Ex56-LINQ\BonusApp.Code\obj\Debug\net5.0\BonusApp.Code.pdb
+C:\Users\basse\source\repos\Skole\Ex56-LINQ\BonusApp.Code\obj\Debug\net5.0\BonusApp.Code.genruntimeconfig.cache

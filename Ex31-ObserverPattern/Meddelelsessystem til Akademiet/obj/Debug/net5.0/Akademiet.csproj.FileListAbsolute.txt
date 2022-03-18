@@ -1,0 +1,16 @@
+C:\Users\basse\source\repos\Ex31-ObserverPattern\Meddelelsessystem til Akademiet\bin\Debug\net5.0\Akademiet.exe
+C:\Users\basse\source\repos\Ex31-ObserverPattern\Meddelelsessystem til Akademiet\bin\Debug\net5.0\Akademiet.deps.json
+C:\Users\basse\source\repos\Ex31-ObserverPattern\Meddelelsessystem til Akademiet\bin\Debug\net5.0\Akademiet.runtimeconfig.json
+C:\Users\basse\source\repos\Ex31-ObserverPattern\Meddelelsessystem til Akademiet\bin\Debug\net5.0\Akademiet.runtimeconfig.dev.json
+C:\Users\basse\source\repos\Ex31-ObserverPattern\Meddelelsessystem til Akademiet\bin\Debug\net5.0\Akademiet.dll
+C:\Users\basse\source\repos\Ex31-ObserverPattern\Meddelelsessystem til Akademiet\bin\Debug\net5.0\ref\Akademiet.dll
+C:\Users\basse\source\repos\Ex31-ObserverPattern\Meddelelsessystem til Akademiet\bin\Debug\net5.0\Akademiet.pdb
+C:\Users\basse\source\repos\Ex31-ObserverPattern\Meddelelsessystem til Akademiet\obj\Debug\net5.0\Akademiet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basse\source\repos\Ex31-ObserverPattern\Meddelelsessystem til Akademiet\obj\Debug\net5.0\Akademiet.AssemblyInfoInputs.cache
+C:\Users\basse\source\repos\Ex31-ObserverPattern\Meddelelsessystem til Akademiet\obj\Debug\net5.0\Akademiet.AssemblyInfo.cs
+C:\Users\basse\source\repos\Ex31-ObserverPattern\Meddelelsessystem til Akademiet\obj\Debug\net5.0\Akademiet.csproj.CoreCompileInputs.cache
+C:\Users\basse\source\repos\Ex31-ObserverPattern\Meddelelsessystem til Akademiet\obj\Debug\net5.0\Akademiet.dll
+C:\Users\basse\source\repos\Ex31-ObserverPattern\Meddelelsessystem til Akademiet\obj\Debug\net5.0\ref\Akademiet.dll
+C:\Users\basse\source\repos\Ex31-ObserverPattern\Meddelelsessystem til Akademiet\obj\Debug\net5.0\Akademiet.pdb
+C:\Users\basse\source\repos\Ex31-ObserverPattern\Meddelelsessystem til Akademiet\obj\Debug\net5.0\Akademiet.genruntimeconfig.cache
+C:\Users\basse\source\repos\Ex31-ObserverPattern\Meddelelsessystem til Akademiet\obj\Debug\net5.0\Akademiet.csproj.AssemblyReference.cache

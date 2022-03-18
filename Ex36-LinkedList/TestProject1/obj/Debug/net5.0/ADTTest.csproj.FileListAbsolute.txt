@@ -1,0 +1,15 @@
+C:\Users\basse\source\repos\Skole\Ex36-LinkedList\TestProject1\obj\Debug\net5.0\ADTTest.csproj.AssemblyReference.cache
+C:\Users\basse\source\repos\Skole\Ex36-LinkedList\TestProject1\obj\Debug\net5.0\ADTTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basse\source\repos\Skole\Ex36-LinkedList\TestProject1\obj\Debug\net5.0\ADTTest.AssemblyInfoInputs.cache
+C:\Users\basse\source\repos\Skole\Ex36-LinkedList\TestProject1\obj\Debug\net5.0\ADTTest.AssemblyInfo.cs
+C:\Users\basse\source\repos\Skole\Ex36-LinkedList\TestProject1\obj\Debug\net5.0\ADTTest.csproj.CoreCompileInputs.cache
+C:\Users\basse\source\repos\Skole\Ex36-LinkedList\TestProject1\bin\Debug\net5.0\ADTTest.deps.json
+C:\Users\basse\source\repos\Skole\Ex36-LinkedList\TestProject1\bin\Debug\net5.0\ADTTest.dll
+C:\Users\basse\source\repos\Skole\Ex36-LinkedList\TestProject1\bin\Debug\net5.0\ref\ADTTest.dll
+C:\Users\basse\source\repos\Skole\Ex36-LinkedList\TestProject1\bin\Debug\net5.0\ADTTest.pdb
+C:\Users\basse\source\repos\Skole\Ex36-LinkedList\TestProject1\bin\Debug\net5.0\ADT.dll
+C:\Users\basse\source\repos\Skole\Ex36-LinkedList\TestProject1\bin\Debug\net5.0\ADT.pdb
+C:\Users\basse\source\repos\Skole\Ex36-LinkedList\TestProject1\obj\Debug\net5.0\ADTTest.csproj.CopyComplete
+C:\Users\basse\source\repos\Skole\Ex36-LinkedList\TestProject1\obj\Debug\net5.0\ADTTest.dll
+C:\Users\basse\source\repos\Skole\Ex36-LinkedList\TestProject1\obj\Debug\net5.0\ref\ADTTest.dll
+C:\Users\basse\source\repos\Skole\Ex36-LinkedList\TestProject1\obj\Debug\net5.0\ADTTest.pdb
